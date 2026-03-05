@@ -118,20 +118,6 @@ These visualizations help present complex loan data in a clear and intuitive for
 
 ---
 
-# 📁 Project Files
-
-| File | Description |
-|-----|-------------|
-| **Bank_loan_Project.pbix** | Power BI dashboard file |
-| **SQL_QUERIES.sql** | SQL queries used for data analysis |
-| **financial_loan.csv** | Dataset used for the project |
-| **Problem Statement.docx** | Project requirement document |
-| **1 - Summary.png** | Summary dashboard screenshot |
-| **2 - Overview.png** | Overview dashboard screenshot |
-| **3 - Details.png** | Details dashboard screenshot |
-
----
-
 # 🛠 Tools & Technologies
 
 ### Tools
