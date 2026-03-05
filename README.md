@@ -28,14 +28,6 @@ Together, these dashboards provide a structured and interactive view of the bank
 
 ---
 
-# 🗂 Table Overview
-
-The dataset contains structured financial loan information including borrower details, loan characteristics, repayment activity, and financial indicators. The data was cleaned and prepared before building the analytical model used in the dashboard.
-
-The structured dataset enables analysis of lending activity across various dimensions such as borrower profile, geographic location, loan terms, and loan status.
-
----
-
 # 🗃 Dataset Details
 
 **Total Rows:** ~38,000+  
@@ -62,9 +54,20 @@ The structured dataset enables analysis of lending activity across various dimen
 
 # 📄 Problem Statement
 
-Financial institutions must continuously monitor lending performance and evaluate the quality of their loan portfolio. The objective of this project is to develop a **comprehensive Bank Loan Report** that provides insights into loan applications, funding distribution, repayment performance, and borrower financial indicators.
+Financial institutions handle large volumes of loan applications and must continuously monitor their lending performance to ensure a healthy and profitable loan portfolio. However, analyzing raw financial data without a structured reporting system makes it difficult to identify lending trends, borrower behavior, and potential risk factors.
 
-The report enables the distinction between **Good Loans and Bad Loans**, allowing organizations to better understand risk exposure within their loan portfolio and support informed decision-making in lending operations.
+The main objectives of this project are:
+
+- To analyze the **total number of loan applications** received over a specific period.
+- To evaluate the **total amount of funds disbursed as loans** and track lending activity.
+- To monitor the **total amount received from borrowers**, helping assess repayment performance.
+- To distinguish between **Good Loans and Bad Loans** based on loan status in order to evaluate the quality of the loan portfolio.
+- To analyze **borrower financial indicators**, such as interest rate and debt-to-income ratio.
+- To understand **loan distribution across different categories** including loan term, employment length, loan purpose, and home ownership status.
+- To analyze **regional lending patterns** to identify states with higher loan activity.
+- To develop an **interactive Power BI dashboard** that provides a comprehensive view of lending performance and supports data-driven decision making.
+
+By addressing these objectives, the project aims to provide a clear analytical framework for evaluating loan portfolio health and identifying patterns within lending operations.
 
 ---
 
